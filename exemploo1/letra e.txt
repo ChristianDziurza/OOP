@@ -1,0 +1,6 @@
+1)
+e. Resultado: "java: fabricante has private in Aviao"
+Ao adicionar a palavra private nos atributos, as outras classes
+passam a não poder utilizar estes atributos. A maneira simples de
+resolver o erro seria colocar os atributos sem nenhuma palavra antes
+da declaração deles ou usar a palavra public.
