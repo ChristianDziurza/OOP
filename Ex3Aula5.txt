@@ -1,0 +1,2 @@
+3)
+ob.cont = 10 não funcionaria pois cont é um atributo privado da classe X.
