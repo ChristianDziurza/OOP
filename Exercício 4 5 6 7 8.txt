@@ -1,0 +1,14 @@
+4)
+As variáveis não trocam de valor por o método não pode anexar novos objetos a parâmetros de outros objetos.
+
+5)
+Sim pois os métodos são de tipos diferentes
+
+6)
+Usando a palavra static
+
+7)
+O modificador private
+
+8)
+valor
