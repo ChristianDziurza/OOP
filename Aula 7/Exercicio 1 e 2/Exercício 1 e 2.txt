@@ -1,0 +1,7 @@
+1)
+Completo:
+	double[] array = new double[]{5,4,3,2,1}
+Simplificado
+	double[] array = {5,4,3,2,1}
+2)
+int[] array = {1,2,3,4,5}
