@@ -1,0 +1,13 @@
+1)
+Caso não haja a presença da instrução super(), o construtor padrão da superclasse será sempre executado automaticamente
+
+2)
+Sim, eles devem utilizar caso a superclasse possua parâmetros.
+
+3)
+Não, ele deve ser o primeiro comando do construtor.
+
+4)
+b. m1, m2 e m3
+c. m1, m2, m3, m4, m5
+d. m2, m3, m4 e m5
