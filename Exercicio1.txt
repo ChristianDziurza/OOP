@@ -1,0 +1,4 @@
+1)
+Classe Oficina(): Essa classe possui dois métodos, proximo() e revisar(). O método proximo() gera um código aleatório(que é um número entre 0 e 100) e usa esse código para criar um automovel ou um bicicleta, pro primero caso seja um número par e pro segundo caso seja um número ímpar. O método revisar() apenas chama os métodos verificar(), ajustar() e limpar().
+
+Classe UsaOficina():Ela cria objetos de oficina e veículo e usa um loop para chamar os métodos da classe Oficina().
