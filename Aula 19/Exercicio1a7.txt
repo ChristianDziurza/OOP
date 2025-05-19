@@ -1,0 +1,17 @@
+1)
+Classe Throwable
+2)
+try
+3)
+Ele captura uma exceção e faz o tratamento da mesma, depois ele executa a próxima instrução, ignorando outros cath.
+4)
+A JVM interrompe a execução do código e trata a exceção
+5)
+Tratar a exceção
+6)
+try: ele delimita um código para ser monitarado, este código pode gerar exceções
+catch: ele possui ações de tratamento para uma exceção específica, basciamente ele captura uma exceção para tratá-la. Pode existir múltiplos catch
+finally: ela é sempre executada tendo ocorrido ou não erros na cláusula try. Ela sempre vem ao final de uma cláusula try
+7)
+Ele não possui um try, fazendo com que o catch não funcione nesse código
+ 
