@@ -1,0 +1,19 @@
+Exercício 2
+a saida do programa será:
+Antes da exce��o ser gerada.
+
+Mensagem padr�o �: 
+java.lang.ArrayIndexOutOfBoundsException: Index 7 out of bounds for length 4
+
+Rastreamento da pilha: 
+
+Rastreamento da pilha obtido de exception.getStackTrace():
+Classe		Arquivo			Linha	Metodo
+GeraExcecao	GeraExcecao.java	6	geraException
+Exercicio2	Exercicio2.java	4	main
+java.lang.ArrayIndexOutOfBoundsException: Index 7 out of bounds for length 4
+	at GeraExcecao.geraException(GeraExcecao.java:6)
+	at Exercicio2.main(Exercicio2.java:4)
+
+Explicação:
+Primeiro ele mostra a mensagem da classe GeraExcecao, depois disso é mostrado as mensagens do tratamento da exceção e logo após é mostrado onde, e qual foi o erro tratado
