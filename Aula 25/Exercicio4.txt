@@ -1,0 +1,7 @@
+4)
+Linha 15
+Conte�do do conjunto hash: [E, V, J, L]
+Linha 19
+Conte�do do conjunto de �rvore: [E, J, L, V]
+
+Na linha 15 ele imprime os elementos na ordem de inserção, pois a estrutura é um Hash, já na linha 19 ele imprime na ordem crescente pois a estrutura é uma árvore
