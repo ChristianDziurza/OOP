@@ -1,0 +1,7 @@
+1) Oque  impresso: Tique Tique Tique Tique Tique Taque
+Taque
+Taque
+Taque
+Taque
+
+Isso ocorre pois primeiro ele executa uma Thread e não permite que a outra use o recurso antes que sua execução seja finalizada.
